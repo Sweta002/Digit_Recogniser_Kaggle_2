@@ -23,3 +23,5 @@ Conv2D creates a convolution kernel that is convolved with the layer input to pr
 ## Results:
 
 The accuracy is 99.5%
+
+## Codacy - B
