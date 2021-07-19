@@ -10,16 +10,16 @@ Visualisation of the dataset helps in better understanding of the data in hand a
 ## Data preprocessing
 Pre-processing data involves removing unwanted attributes from the dataset, filling missing values or removing the tuples with missing values, etc. It overall makes the data useful for the problem or usecase in hand.
 
-1.Dealing with null values
+1. Dealing with null values
 
-2.Splitting and reshaping data
+2. Splitting and reshaping data
 
-3.Feature scaling
+3. Feature scaling
 
 ## Building Model:
 The model used here is a sequential one.
-Conv2D creates a convolution kernel that is convolved with the layer input to produce a tensor of outputs and also a RELU Activation layer is used.
+Conv2D creates a convolution kernel that is convolved with the layer input to produce a tensor of outputs and also a RELU Activation layer is used to build and train for accurate results.
 
-##Results:
+## Results:
 
 The accuracy is 99.5%
